@@ -1,6 +1,6 @@
 - 👋 Hi This is Archana M
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning B.E. Electronics and Communication Engineering, College of Engineering Guindy
+- 🌱 I’m currently studying B.E. Electronics and Communication Engineering, College of Engineering Guindy
 
 
 <!---
